@@ -1,0 +1,2 @@
+# GANs_for_Time_Series_Generation
+使用GAN对时间序列数据进行生成。
